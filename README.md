@@ -2,7 +2,7 @@
 
 Hi everyone! 👋 
 
-This is a mini desktop app I built for my **Introduction to Programming** lesson. It simply fetches live wind data for any city and saves it to a local database. 
+This is a mini desktop app I built for my **Introduction to Programming** class. It simply fetches live wind data for any city and saves it to a local database. 
 
 This project was a super fun way for me to learn how to connect different pieces together: a graphical interface, web APIs, and a database! 
 
